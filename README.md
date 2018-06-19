@@ -1,3 +1,3 @@
 # LeetCode
 
-My LeetCode solutions.
+My [LeetCode](http://leetcode.com/) solutions.
